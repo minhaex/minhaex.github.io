@@ -24,7 +24,7 @@
 
 |Cômodo(s)|Responsável 1|Responsável 2|Responsável 3|
 |:-:|:-:|:-:|:-:|
-|Primeiro andar (cozinha, copa, claraboia e sala inferior)|Bruno|Édson|Gabriely|
+|Primeiro andar (cozinha, copa, claraboia e sala inferior)|Bruno|Édson|Gabrielly|
 |Segundo andar (sala superior, hall da escada, sacada e escada)|Luciano|||
 |Áreas externas (garagem, corredor lateral, área e cozinha dos fundos|Halê|João Vitor||
 |Banheiro social superior|João Vitor|||
@@ -39,7 +39,7 @@
 |Luciano|Sala superior, hall da escada, sacada e escada|
 |João Vitor|Garagem, corredor lateral, área, cozinha dos fundos e banheiro social superior|
 |Édson|Cozinha, copa, claraboia e sala inferior|
-|Gabriely|Cozinha, copa, claraboia e sala inferior|
+|Gabrielly|Cozinha, copa, claraboia e sala inferior|
 |Mikaely|Dispensa, banheiro social externo e lavanderia|
 |Bruno|Dispensa, banheiro social externo, lavanderia e banheiro social inferior.|
 
@@ -55,10 +55,10 @@
 
 |Geladeira Esquerda|Geladeira Direita|
 |:-:|:-:|
-|N/D|N/D|
-|N/D|N/D|
-|N/D|N/D|
-|N/D|N/D|
+|João Vitor|Halê|
+|Luciano|Édson|
+|Gabrielly|Mikaely|
+|Bruno|-|
 
 ## Aluguel
 
@@ -68,7 +68,7 @@ Os valores definidos são:
 |Valor|Responsável|
 |:-:|:-:|
 |320|Bruno|
-|350|Gabriely e Mikaely|
+|350|Gabrielly e Mikaely|
 |370|Édson|
 |400|João Vitor|
 |420|Luciano|
