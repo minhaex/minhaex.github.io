@@ -10,41 +10,55 @@
 
 |Dia da Semana|Responsável|
 |:-:|:-:|
-|Segunda|Ha|
-|Terça|JH|
-|Quarta|Vi|
-|Quinta|JB|
-|Sexta|Br|
-|Sábado|Ha,JH,Vi,JB,Br,Ed|
-|Domingo|Ed|
+|Segunda|Halê|
+|Terça||
+|Quarta|Édson|
+|Quinta||
+|Sexta||
+|Sábado|João Vitor|
+|Domingo||
 
 ## Limpeza
 
-|Responsável|Cômodo 1|Cômodo 2|Cômodo 3|
+### Por Cômodos
+
+|Cômodo(s)|Responsável 1|Responsável 2|Responsável 3|
 |:-:|:-:|:-:|:-:|
-|Br|Banheiro Social Inferior|Lavanderia|Cozinha|
-|Ed|Copa|Clarabóia|Sala|
-|Ha|Garagem|Corredor Lateral|Área dos Fundos|
-|JB|Banheiro Social Superior|Área dos Fundos|Área da Churrasqueira|
-|Ed,Vi|Sacada|Sala Superior|Escada|
-|Vi|Dispensa|Banheiro Social Externo|Área da Churrasqueira|
+|Primeiro andar (cozinha, copa, claraboia e sala inferior)|Bruno|Édson|Gabriely|
+|Segundo andar (sala superior, hall da escada, sacada e escada)|Luciano|||
+|Áreas externas (garagem, corredor lateral, área e cozinha dos fundos|Halê|João Vitor||
+|Banheiro social superior|João Vitor|||
+|Banheiro social inferior|Bruno|||
+|Dispensa, banheiro social externo e lavanderia|Mikaely|||
+
+### Por Pessoa
+
+|Responsável|Cômodo(s)|
+|:-:|:-:|
+|Halê|Garagem, corredor lateral, área e cozinha dos fundos|
+|Luciano|Sala superior, hall da escada, sacada e escada|
+|João Vitor|Garagem, corredor lateral, área, cozinha dos fundos e banheiro social superior|
+|Édson|Cozinha, copa, claraboia e sala inferior|
+|Gabriely|Cozinha, copa, claraboia e sala inferior|
+|Mikaely|Dispensa, banheiro social externo e lavanderia|
+|Bruno|Dispensa, banheiro social externo, lavanderia e banheiro social inferior.|
 
 ## Lixo
 
-|Dia da Semana|Responsável|
+|Dia da Semana|Responsáveis|
 |:-:|:-:|
-|Segunda|Ha,JH|
-|Quarta|Vi,JB|
-|Sexta|Br,Ed|
+|Segunda|Halê e Bruno|
+|Quarta|Édson e Mikaely|
+|Sexta||
 
 ## Geladeira
 
 |Geladeira Esquerda|Geladeira Direita|
 |:-:|:-:|
-|Br|Ha|
-|JB|Ed|
-|Vi||
-|JH||
+|N/D|N/D|
+|N/D|N/D|
+|N/D|N/D|
+|N/D|N/D|
 
 ## Aluguel
 
@@ -53,9 +67,9 @@ Os valores definidos são:
 
 |Valor|Responsável|
 |:-:|:-:|
-|320|Br|
-|350|Vi|
-|370|Ed|
-|400|JB|
-|420|JH|
-|440|Ha|
+|320|Bruno|
+|350|Gabriely e Mikaely|
+|370|Édson|
+|400|João Vitor|
+|420|Luciano|
+|440|Halê|
