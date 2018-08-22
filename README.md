@@ -49,7 +49,7 @@
 |:-:|:-:|
 |Segunda|Halê e Bruno|
 |Quarta|Édson e Mikaely|
-|Sexta||
+|Sexta|Gabrielly, João e Luciano|
 
 ## Geladeira
 
