@@ -11,12 +11,12 @@
 |Dia da Semana|Responsável|
 |:-:|:-:|
 |Segunda|Halê|
-|Terça||
+|Terça|Mikaely|
 |Quarta|Édson|
-|Quinta||
-|Sexta||
+|Quinta|Gabriely|
+|Sexta|Luciano|
 |Sábado|João Vitor|
-|Domingo||
+|Domingo|Bruno|
 
 ## Limpeza
 
