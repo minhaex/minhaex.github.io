@@ -100,5 +100,6 @@ Depositar via boleto para a conta da casa R$90,00 (noventa reais) por pessoa.
 |Diarista|Não|N/A|
 |Mangueira/Pora mangueira|Não|N/A|
 |Roteador/Modem|Não|N/A|
+|Motor do portão|Não|N/A|
 |Mural dos moradores|Não|N/A|
 |Painel/Quadro de vidro|Não|N/A|
