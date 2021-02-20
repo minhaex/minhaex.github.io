@@ -11,7 +11,7 @@
 ## Informações Úteis
 
 ### Endereço
-SOE Q 25, Casa 17, Gama Oeste, Brasília-DF, CEP 72420250
+SOE Q 25, Casa 17, Gama Oeste, Brasília-DF, CEP 72.420-250
 
 ### Senha do Portão
 4680
