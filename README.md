@@ -71,7 +71,7 @@ SOE Q 25, Casa 17, Gama Oeste, Brasília-DF, CEP 72420250
 
 ## Contas
 
-O pagamento deverá ser feito para ao responsável até o dia `20` de cada mês.
+O pagamento deverá ser feito ao responsável até o dia `20` de cada mês.
 
 ### Aluguel
 
