@@ -96,6 +96,7 @@ Depositar via boleto para a conta da casa R$90,00 (noventa reais) por pessoa.
 |:-:|:-:|:-:|
 |Caixa de Gordura|Sim|Emanuelle|
 |Cooktop|Sim|Halê|
+|Microondas|Sim|Isabella e Larissa|
 |Calha/Infiltração|Não|N/A|
 |Diarista|Não|N/A|
 |Mangueira/Pora mangueira|Não|N/A|
