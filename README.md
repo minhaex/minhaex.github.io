@@ -98,7 +98,7 @@ D -> Limpeza pela diarista;
 
 |Serviço|Atribuição|Concluído|
 |:-:|:-:|:-:|
-|Diarista|Filipe|Não|
+|Diarista|Filipe/Aldo|Não|
 |Roteador/Modem|N/A|Não|
 |Mural dos moradores|N/A|Não|
 |Painel/Quadro de vidro|N/A|Não|
