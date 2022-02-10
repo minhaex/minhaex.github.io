@@ -25,7 +25,7 @@ Depositar via boleto para a conta da casa R$300,00 (trezentos reais) por pessoa,
 
 Realizar transferência para a conta do senhor Deusimar até o dia 20 (vinte) de cada mês.
 
-|Valor|Responsável|
+|Valor|Locatário|
 |:-:|:-:|
 |320|Bruno|
 |350| - |
@@ -46,10 +46,9 @@ Realizar transferência para a conta do senhor Deusimar até o dia 20 (vinte) de
 
 |Dia da Semana|Responsáveis|
 |:-:|:-:|
-|Segunda|Halê e Bruno|
-|Quarta|Isabella e Larissa|
+|Segunda|Aldo e Bruno|
 |Quarta|Coelho|
-|Sexta|Emanuelle e Aldo|
+|Sexta|Filipe e Halê|
 
 ## Lavanderia
 
@@ -97,9 +96,9 @@ D -> Limpeza pela diarista;
 
 ## Pendencias
 
-|Serviço|Concluído|Atribuição|
+|Serviço|Atribuição|Concluído|
 |:-:|:-:|:-:|
-|Diarista|Não|N/A|
-|Roteador/Modem|Não|N/A|
-|Mural dos moradores|Não|N/A|
-|Painel/Quadro de vidro|Não|N/A|
+|Diarista|Filipe|Não|
+|Roteador/Modem|N/A|Não|
+|Mural dos moradores|N/A|Não|
+|Painel/Quadro de vidro|N/A|Não|
