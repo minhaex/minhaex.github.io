@@ -1,6 +1,6 @@
 # República Minha Ex
 
-* [Informações Úteis](#informacoes)
+* [Informações](#informacoes)
 * [Aluguel](#aluguel)
 * [Geladeira](#geladeira)
 * [Lixo](#lixo)
@@ -8,7 +8,7 @@
 * [Limpeza](#limpeza)
 * [Consertos e Upgrades](#consertosupgrades)
 
-## Informações Úteis
+## Informações
 
 ### Endereço
 SOE Q 25, Casa 17, Gama Oeste, Brasília-DF, CEP 72.420-250
