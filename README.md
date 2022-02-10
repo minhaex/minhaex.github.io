@@ -1,14 +1,14 @@
 # República Minha Ex
 
-* [Informações](#informacoes)
+* [Informacoes](#informacoes)
 * [Aluguel](#aluguel)
 * [Geladeira](#geladeira)
 * [Lixo](#lixo)
 * [Lavanderia](#lavanderia)
 * [Limpeza](#limpeza)
-* [Pendências](#pendencias)
+* [Pendencias](#pendencias)
 
-## Informações
+## Informacoes
 
 ### Endereço
 SOE Q 25, Casa 17, Gama Oeste, Brasília-DF, CEP 72.420-250
@@ -95,7 +95,7 @@ D -> Limpeza pela diarista;
 |Entrada|X|0|D|0|0|
 |Fundos|0|0|D|0|X|
 
-## Pendências
+## Pendencias
 
 |Serviço|Concluído|Atribuição|
 |:-:|:-:|:-:|
