@@ -6,7 +6,7 @@
 * [Lixo](#lixo)
 * [Lavanderia](#lavanderia)
 * [Limpeza](#limpeza)
-* [Consertos e Upgrades](#consertosupgrades)
+* [Pendências](#pendencias)
 
 ## Informações
 
@@ -95,7 +95,7 @@ D -> Limpeza pela diarista;
 |Entrada|X|0|D|0|0|
 |Fundos|0|0|D|0|X|
 
-## Consertos e Upgrades
+## Pendências
 
 |Serviço|Concluído|Atribuição|
 |:-:|:-:|:-:|
