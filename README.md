@@ -32,7 +32,7 @@ Realizar transferência para a conta do senhor Deusimar até o dia 20 (vinte) de
 |370|Coelho|
 |400|Aldo|
 |420|Filipe|
-|440|Halê|
+|440| - |
 
 ## Geladeira
 
