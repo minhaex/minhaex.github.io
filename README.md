@@ -13,8 +13,6 @@
 ### Endereço
 SOE Q 25, Casa 17, Gama Oeste, Brasília-DF, CEP 72.420-250
 
-Senha do Portão: 4680
-
 ### Despesas da Casa
 
 Depositar via boleto para a conta da casa R$150,00 (cento e cinquenta reais) por pessoa até o dia 10 (dez) de cada mês, para custear as despesas mensais da casa.
@@ -38,7 +36,7 @@ Realizar transferência para a conta do senhor Deusimar até o dia 20 (vinte) de
 
 |Esquerda|Direita|
 |:-:|:-:|
-|Filipe|Halê|
+|Filipe| - |
 |Bruno|Coelho|
 |-|Aldo|
 
@@ -48,13 +46,13 @@ Realizar transferência para a conta do senhor Deusimar até o dia 20 (vinte) de
 |:-:|:-:|
 |Segunda|Aldo e Bruno|
 |Quarta|Coelho|
-|Sexta|Filipe e Halê|
+|Sexta|Filipe e Maicon|
 
 ## Lavanderia
 
 |Dia da Semana|Responsável|
 |:-:|:-:|
-|Segunda|Halê|
+|Segunda| Maicon |
 |Terça|Filipe|
 |Quarta|Aldo|
 |Quinta|Rafael|
@@ -98,7 +96,7 @@ D -> Limpeza pela diarista;
 
 |Serviço|Atribuição|Concluído|
 |:-:|:-:|:-:|
-|Diarista|Filipe/Aldo|Não|
+|Diarista|Filipe/Aldo| N/A |
 |Roteador/Modem|N/A|Não|
 |Mural dos moradores|N/A|Não|
 |Painel/Quadro de vidro|N/A|Não|
